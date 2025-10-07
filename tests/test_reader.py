@@ -4,7 +4,7 @@ from demviz.reader import DEMReader
 
 class TestDEMReader(unittest.TestCase):
     def setUp(self):
-        self.dem_path = "tests/test_dem.tif"  # Updated path to ensure it's in tests/
+        self.dem_path = "tests/srtm.tif"  # Updated path to ensure it's in tests/
         if not os.path.exists(self.dem_path):
             self.skipTest("Test DEM file not found")
 
