@@ -1,0 +1,41 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution directories
+dist/
+build/
+*.egg-info/
+
+# Test-related files
+tests/*.xml
+.coverage
+coverage.xml
+*.cover
+pytest_cache/
+
+# Virtual environments
+venv/
+.env/
+env/
+virtualenv/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS and miscellaneous
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.swp
+*~
+
+# Environment variables and secrets
+.env
+*.env
