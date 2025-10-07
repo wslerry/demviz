@@ -41,3 +41,7 @@ Install locally:
 or
 
 `demviz dem_file.tif --z-scale 1.0`
+
+---
+
+> This project uses OpenCV (Apache 2.0), VTK (BSD 3-Clause), and Python (PSFL). See third_party/ for license details.
