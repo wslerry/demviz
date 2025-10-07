@@ -21,6 +21,6 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/demviz"
-Repository = "https://github.com/yourusername/demviz.git"
-Issues = "https://github.com/yourusername/demviz/issues"
+Homepage = "https://github.com/wslerry/demviz"
+Repository = "https://github.com/wslerry/demviz.git"
+Issues = "https://github.com/wslerry/demviz/issues"

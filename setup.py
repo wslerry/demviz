@@ -7,7 +7,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Lerry William Seling",
-    author_email="your.email@example.com",
+    author_email="lerryws@sains.com.my",
     url="https://github.com/wslerry/demviz",
     packages=find_packages(),
     install_requires=[
